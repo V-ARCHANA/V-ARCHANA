@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @V-ARCHANA
+  
 - 👀 I’m interested in Data Analyst
+  
 - 🌱 I’m currently learning SQL, EXCEL, and PYTHON.
 
 <!---
